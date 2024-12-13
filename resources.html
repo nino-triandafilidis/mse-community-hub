@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resource Directory</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #FFF7EB; color: #333; }
+    .filter { margin: 10px 0; }
+    .resource { padding: 10px; margin: 10px 0; border: 1px solid #FFDAB9; border-radius: 8px; background-color: #FFECD1; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Interactive Resource Directory</h1>
+    <p>Filter and explore the best community-building resources for MS&E students.</p>
+  </header>
+
+  <section>
+    <div class="filter">
+      <label for="category">Filter by Category:</label>
+      <select id="category" onchange="filterResources()">
+        <option value="all">All</option>
+        <option value="leadership">Leadership Programs</option>
+        <option value="industry">Industry-Specific Groups</option>
+      </select>
+    </div>
+
+    <div id="resources">
+      <div class="resource" data-category="leadership">
+        <h3>Accel Leadership Program</h3>
+        <a href="https://stvp.stanford.edu/alp/" target="_blank">Visit Website</a>
+      </div>
+      <div class="resource" data-category="industry">
+        <h3>Threshold Venture Fellows</h3>
+        <a href="https://stvp.stanford.edu/tvf/" target="_blank">Visit Website</a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Unofficial MS&E Networking Hub</p>
+  </footer>
+
+  <script>
+    function filterResources() {
+      const category = document.getElementById('category').value;
+      const resources = document.querySelectorAll('.resource');
+      resources.forEach(res => {
+        if (category === 'all' || res.dataset.category === category) {
+          res.style.display = 'block';
+        } else {
+          res.style.display = 'none';
+        }
+      });
+    }
+  </script>
+</body>
+</html>
