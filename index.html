@@ -6,69 +6,79 @@
   <title>MS&E Networking Hub</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: 'Roboto', sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #FFF7EB;
-      color: #333;
+      background-color: #F9FAFB;
+      color: #111827;
+      line-height: 1.6;
     }
 
     header {
-      background-color: #FFCBA4;
-      color: #333;
+      background-color: #2563EB;
+      color: #FFFFFF;
       text-align: center;
-      padding: 20px;
+      padding: 40px 20px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
 
     header img {
       width: 100%;
-      max-width: 300px;
+      max-width: 600px; /* Increased the maximum width */
       border-radius: 15px;
-      margin: 10px auto;
+      margin: 20px auto;
     }
 
     h1 {
       font-size: 2.5em;
-      margin: 0;
+      margin: 10px 0;
+      font-weight: 700;
     }
 
     section {
-      padding: 20px;
-      text-align: center;
+      padding: 40px 20px;
+      margin: 20px auto;
+      max-width: 800px;
+      background-color: #FFFFFF;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
     }
 
-    section#resources {
-      background-color: #FFECD1;
-      border: 1px solid #FFDAB9;
-      border-radius: 8px;
-      margin: 20px;
-      padding: 15px;
+    section h2 {
+      font-size: 1.8em;
+      color: #2563EB;
+      margin-bottom: 20px;
+      margin-top: -30px; /* Shift title higher visibly */
+    }
+
+    section#resources, section#calendar {
+      margin-top: 40px;
+    }
+
+    section p {
+      color: #6B7280;
     }
 
     section#resources a {
-      color: #FF884D;
+      color: #2563EB;
       text-decoration: none;
-      font-weight: bold;
+      font-weight: 500;
+      display: inline-block;
+      margin-top: 10px;
+      font-size: 1.2em;
     }
 
     section#resources a:hover {
       text-decoration: underline;
     }
 
-    section#calendar {
-      background-color: #E8F6F3;
-      border: 1px solid #C2DFE3;
-      border-radius: 8px;
-      margin: 20px;
-      padding: 15px;
-    }
-
     footer {
-      background-color: #FFDAB9;
-      color: #333;
+      background-color: #1E3A8A;
+      color: #F9FAFB;
       text-align: center;
-      padding: 10px;
-      margin-top: 20px;
+      padding: 20px;
+      margin-top: 40px;
+      font-size: 0.9em;
     }
   </style>
 </head>
@@ -87,16 +97,14 @@
   <section id="resources">
     <h2>Useful Community-Building Resources</h2>
     <p>Explore curated resources tailored for MS&E students.</p>
-    <a href="resources.html" style="font-size: 1.2em; color: #FF884D;">View All Resources</a>
+    <a href="resources.html">View All Resources</a>
   </section>
 
   <section id="calendar">
     <h2>Event Calendar</h2>
     <iframe 
       src="https://calendar.google.com/calendar/embed?src=dd64807ff4debb0586b262ee482607ae904e74d60027901fdb988a0fb51589dd@group.calendar.google.com&ctz=America/Los_Angeles" 
-      style="border: 0" 
-      width="800" 
-      height="600" 
+      style="border: 0; width: 100%; height: 600px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);" 
       frameborder="0" 
       scrolling="no">
     </iframe>

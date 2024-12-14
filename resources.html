@@ -5,9 +5,110 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Resource Directory</title>
   <style>
-    body { font-family: Arial, sans-serif; background-color: #FFF7EB; color: #333; }
-    .filter { margin: 10px 0; }
-    .resource { padding: 10px; margin: 10px 0; border: 1px solid #FFDAB9; border-radius: 8px; background-color: #FFECD1; }
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #F9FAFB;
+      color: #111827;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #2563EB;
+      color: #FFFFFF;
+      text-align: center;
+      padding: 20px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2em;
+      font-weight: 700;
+    }
+
+    header p {
+      margin: 10px 0 0;
+    }
+
+    .filter {
+      margin: 20px auto;
+      padding: 10px;
+      max-width: 800px;
+      background: #FFFFFF;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    }
+
+    .filter select {
+      padding: 10px;
+      font-size: 1em;
+      color: #111827;
+      border: 1px solid #D1D5DB;
+      border-radius: 8px;
+    }
+
+    #resources {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      padding: 20px;
+      max-width: 1200px;
+      margin: auto;
+    }
+
+    .resource {
+      flex: 1 1 calc(50% - 20px);
+      background-color: #FFFFFF;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+      border: 1px solid #D1D5DB;
+    }
+
+    .resource h3 {
+      font-size: 1.2em;
+      color: #2563EB;
+      margin-bottom: 10px;
+      margin-top: -10px; /* Adjusted title spacing to be less high */ 
+    }
+
+    .resource a {
+      color: #2563EB;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .resource a:hover {
+      text-decoration: underline;
+    }
+
+    .home-button {
+      display: block;
+      margin: 20px auto;
+      padding: 10px 20px;
+      font-size: 1em;
+      color: #FFFFFF;
+      background-color: #2563EB;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      text-align: center;
+      text-decoration: none;
+    }
+
+    .home-button:hover {
+      background-color: #1E40AF;
+    }
+
+    footer {
+      background-color: #1E3A8A;
+      color: #F9FAFB;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+      font-size: 0.9em;
+    }
   </style>
 </head>
 <body>
@@ -16,27 +117,27 @@
     <p>Filter and explore the best community-building resources for MS&E students.</p>
   </header>
 
-  <section>
-    <div class="filter">
-      <label for="category">Filter by Category:</label>
-      <select id="category" onchange="filterResources()">
-        <option value="all">All</option>
-        <option value="leadership">Leadership Programs</option>
-        <option value="industry">Industry-Specific Groups</option>
-      </select>
-    </div>
+  <div class="filter">
+    <label for="category">Filter by Category:</label>
+    <select id="category" onchange="filterResources()">
+      <option value="all">All</option>
+      <option value="leadership">Leadership Programs</option>
+      <option value="industry">Industry-Specific Groups</option>
+    </select>
+  </div>
 
-    <div id="resources">
-      <div class="resource" data-category="leadership">
-        <h3>Accel Leadership Program</h3>
-        <a href="https://stvp.stanford.edu/alp/" target="_blank">Visit Website</a>
-      </div>
-      <div class="resource" data-category="industry">
-        <h3>Threshold Venture Fellows</h3>
-        <a href="https://stvp.stanford.edu/tvf/" target="_blank">Visit Website</a>
-      </div>
+  <div id="resources">
+    <div class="resource" data-category="leadership">
+      <h3>Accel Leadership Program</h3>
+      <a href="https://stvp.stanford.edu/alp/" target="_blank">Visit Website</a>
     </div>
-  </section>
+    <div class="resource" data-category="industry">
+      <h3>Threshold Venture Fellows</h3>
+      <a href="https://stvp.stanford.edu/tvf/" target="_blank">Visit Website</a>
+    </div>
+  </div>
+
+  <a href="index.html" class="home-button">Return to Home Page</a>
 
   <footer>
     <p>&copy; 2024 Unofficial MS&E Networking Hub</p>
