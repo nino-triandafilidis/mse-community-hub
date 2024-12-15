@@ -1,0 +1,228 @@
+/* Global Styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #F9FAFB;
+  color: #111827;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #2563EB;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 40px 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header img {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 15px;
+  margin: 20px auto;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin: 10px 0; /* Reduced spacing above header */
+  font-weight: 700;
+}
+
+section {
+  padding: 10px 20px;
+  margin: 40px auto; /* Slightly reduced spacing between sections */
+  max-width: 800px;
+  background-color: #FFFFFF;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+section h2 {
+  font-size: 2em;
+  color: #2563EB;
+  margin-bottom: 20px; /* Consistent spacing below header */
+  margin-top: 0; /* Removed top margin to push higher */
+}
+
+section ul {
+  margin-top: 10px;
+  margin-left: 20px;
+  color: #111827;
+  list-style-type: disc;
+}
+
+section a {
+  color: #2563EB;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+section a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: #1E3A8A;
+  color: #F9FAFB;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+  font-size: 0.9em;
+}
+
+/* Housing Guide Specific Styles */
+#housing-guide h3 {
+  color: #1E40AF;
+  margin-top: 0; /* Removed unnecessary margin above */
+  font-size: 1.6em;
+}
+
+#housing-guide p {
+  color: #6B7280;
+}
+
+#housing-guide ul {
+  margin-bottom: 20px;
+}
+
+#housing-guide a {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 1.2em;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  header {
+    padding: 30px 15px;
+  }
+
+  h1 {
+    font-size: 2em;
+    margin: 10px 0; /* Reduced spacing */
+  }
+
+  section {
+    padding: 30px 15px;
+    margin: 30px auto;
+  }
+
+  section h2 {
+    font-size: 1.8em;
+    margin-top: 0; /* Consistent header alignment */
+  }
+}
+
+/* Filter Section */
+.filter {
+  margin: 20px auto;
+  padding: 10px;
+  max-width: 800px;
+  background: #FFFFFF;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.filter label {
+  font-weight: 500;
+  margin-right: 10px;
+  color: #111827;
+}
+
+.filter select {
+  padding: 10px;
+  font-size: 1em;
+  color: #111827;
+  border: 1px solid #D1D5DB;
+  border-radius: 8px;
+}
+
+/* Resource Cards */
+#resources {
+  padding: 20px;
+  margin: 40px auto; /* Centered with consistent spacing */
+  max-width: 800px;
+  background-color: #FFFFFF;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  text-align: left;
+}
+
+#resources h2 {
+  font-size: 2em;
+  color: #2563EB;
+  margin-bottom: 20px;
+  margin-top: 0; /* Removed top margin */
+}
+
+#resources p {
+  color: #6B7280;
+  font-size: 1em;
+  margin-bottom: 20px;
+}
+
+#resources a {
+  color: #2563EB;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1.2em;
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 10px;
+  border: 1px solid #2563EB;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+#resources a:hover {
+  background-color: #2563EB;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.resource {
+  flex: 1 1 calc(50% - 20px);
+  background-color: #FFFFFF;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  border: 1px solid #D1D5DB;
+  margin: 20px 0; /* Added spacing between resources */
+}
+
+.resource h3 {
+  font-size: 1.6em;
+  color: #2563EB;
+  margin-bottom: 10px;
+  margin-top: 0; /* Removed unnecessary margin */
+}
+
+.resource a {
+  color: #2563EB;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.resource a:hover {
+  text-decoration: underline;
+}
+
+/* Return to Home Button */
+.home-button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 1em;
+  color: #FFFFFF;
+  background-color: #2563EB;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+}
+
+.home-button:hover {
+  background-color: #1E40AF;
+}
