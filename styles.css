@@ -72,24 +72,52 @@ footer {
 }
 
 /* Housing Guide Specific Styles */
-#housing-guide h3 {
-  color: #1E40AF;
-  margin-top: 0; /* Removed unnecessary margin above */
-  font-size: 1.6em;
+#housing-guide {
+  padding: 20px;
+  margin: 40px auto;
+  max-width: 800px;
+  background-color: #FFFFFF;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
-#housing-guide p {
-  color: #6B7280;
-}
-
-#housing-guide ul {
+#housing-guide h2 {
+  color: #2563EB;
+  font-size: 2em;
   margin-bottom: 20px;
 }
 
-#housing-guide a {
-  display: inline-block;
-  margin-top: 10px;
+#housing-guide .housing-feature {
+  margin-bottom: 20px;
+}
+
+#housing-guide ul {
+  margin-left: 20px;
+  color: #111827;
+  list-style-type: disc;
+}
+
+#housing-guide .apply-section {
+  text-align: left;
+}
+
+#housing-guide .apply-button {
+ color: #2563EB;
+  text-decoration: none;
+  font-weight: 500;
   font-size: 1.2em;
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 10px;
+  border: 1px solid #2563EB;
+  border-radius: 20px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+#housing-guide .apply-button:hover {
+  background-color: #2563EB;
+  color: #FFFFFF;
+  text-decoration: none;
 }
 
 /* Responsive Design */
@@ -171,7 +199,7 @@ footer {
   padding: 10px 20px;
   margin-top: 10px;
   border: 1px solid #2563EB;
-  border-radius: 8px;
+  border-radius: 20px;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
