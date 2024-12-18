@@ -71,6 +71,8 @@ footer {
   font-size: 0.9em;
 }
 
+
+
 /* Housing Guide Specific Styles */
 #housing-guide {
   padding: 20px;
@@ -185,7 +187,7 @@ footer {
 }
 
 #resources p {
-  color: #6B7280;
+  color: #111827;
   font-size: 1em;
   margin-bottom: 20px;
 }
@@ -253,4 +255,36 @@ footer {
 
 .home-button:hover {
   background-color: #1E40AF;
+}
+
+
+/* Top Navigation bar */
+
+.navigation-bar {
+  margin-top: 20px;
+  text-align: center;
+  padding: 10px 0;
+  background-color: #2563EB;
+}
+
+.nav-button {
+  color: #FFFFFF;
+  background-color: #2563EB;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1em;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 8px;
+  display: inline-block;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.nav-button:hover {
+  background-color: #1E40AF;
+}
+
+.navigation-bar a {
+  text-decoration: none;
+  margin: 0 10px;
 }
