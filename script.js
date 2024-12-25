@@ -27,11 +27,34 @@ function handleSubmit(event) {
 }
 
 function generateMockRecommendations(interests) {
-    // Use courseData instead of hardcoded courses
-    const matchedCourses = courseData.filter(course => 
-        course.description.toLowerCase().includes(interests.toLowerCase())
-    ).slice(0, 2);  // Get top 2 matches
+    console.log('Full course data:', courseData); // Log all available courses
+    console.log('Searching for:', interests); // Log search term
+
+    // Add some debugging for the first few courses
+    if (courseData && courseData.length > 0) {
+        console.log('Sample course description:', courseData[0].description);
+        console.log('Is match?', courseData[0].description.toLowerCase().includes(interests.toLowerCase()));
+    }
+
+    const matchedCourses = courseData.filter(course => {
+        // Make sure both course.description and interests exist and are strings
+        if (!course.description || !interests) return false;
+        
+        const desc = course.description.toLowerCase().trim();
+        const search = interests.toLowerCase().trim();
+        const isMatch = desc.includes(search);
+        
+        console.log(`Checking course ${course.code}: ${isMatch}`); // Log each check
+        return isMatch;
+    }).slice(0, 4);  // Get top 4 matches
     
-    return `Based on your interest in ${interests}, you might enjoy:<br>
+    console.log('Matched courses:', matchedCourses);
+    
+    if (matchedCourses.length === 0) {
+        return `<p>No courses match your interests in "${interests}". 
+                Please try different keywords or browse the full course catalog <a href="https://bulletin.stanford.edu/departments/MGMTSCI/courses" target="_blank">here</a>.</p>`;
+    }
+    
+    return `Based on your interest in "${interests}", you might enjoy:<br>
             ${matchedCourses.map(course => `• ${course.code}: ${course.name}`).join('<br>')}`;
 } 
