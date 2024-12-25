@@ -1,0 +1,807 @@
+[
+  {
+    "code": "MS&E108",
+    "name": "Senior Project",
+    "description": "Restricted to MS&E majors in their senior year. Students carry out a major project in groups of four, applying techniques and concepts learned in the major. Project work includes problem identification and definition, data collection and synthesis, m..."
+  },
+  {
+    "code": "MS&E10SC",
+    "name": "Artificial Intelligence and Deliberative Democracy",
+    "description": "Deliberative democracy is a political theory that holds that democracy should be based on informed, respectful, and inclusive public deliberation. In this SoCo course, we explore the relationship between artificial intelligence (AI) and deliberative..."
+  },
+  {
+    "code": "MS&E111",
+    "name": "Introduction to Optimization",
+    "description": "Formulation and computational analysis of linear, quadratic, and other convex optimization problems.  Applications in machine learning, operations, marketing, finance, and economics. Prerequisite: CME 100 or MATH 51."
+  },
+  {
+    "code": "MS&E111DS",
+    "name": "Introduction to Optimization: Data Science",
+    "description": "Formulation and computational analysis of linear, discrete, and other optimization problems. Strong emphasis on data science and machine learning applications, as well as applications in matching and pricing in online markets. Prerequisite: CME 100 o..."
+  },
+  {
+    "code": "MS&E111X",
+    "name": "Introduction to Optimization (Accelerated)",
+    "description": "Introduction to optimization theory, modeling, structure, and methods with focus on the mathematical foundations. Accelerated introduction to linear programming, nonlinear optimization, and optimization algorithm design. Prerequisite: CME 100 or MATH..."
+  },
+  {
+    "code": "MS&E112",
+    "name": "Graph and Combinatorial Optimization",
+    "description": "Optimization problems dealing with graph structure. Topics: introduction to graph theory; combinatorial optimization problems on networks including network flows, matching, and assignment problems; NP-completeness and approximation algorithms; applic..."
+  },
+  {
+    "code": "MS&E114",
+    "name": "Applied Optimization",
+    "description": "This class will illustrate applications of optimization principles such as linear and non-linear programming, decision making under uncertainty, and dynamic programming in several important real-world scenarios, including Machine Learning, Market Des..."
+  },
+  {
+    "code": "MS&E120",
+    "name": "Introduction to Probability",
+    "description": "Probability is the foundation behind many important disciplines including statistics, machine learning, risk analysis, stochastic modeling and optimization. This course provides an in-depth undergraduate-level introduction to fundamental ideas and to..."
+  },
+  {
+    "code": "MS&E120ACE",
+    "name": "Introduction to Probability, ACE",
+    "description": "Students attend MS&E 120 lectures with additional recitation sessions; two to four hours per week. Enrollment by permission only. Prerequisite: students should submit application for enrollment at: https://engineering.stanford.edu/students/programs/e..."
+  },
+  {
+    "code": "MS&E121",
+    "name": "Introduction to Stochastic Modeling",
+    "description": "Stochastic processes and models in operations research. Discrete and continuous time parameter Markov chains. Queuing theory, inventory theory, simulation. Prerequisite: 120 or equivalent."
+  },
+  {
+    "code": "MS&E125",
+    "name": "Introduction to Applied Statistics",
+    "description": "An increasing amount of data is now generated in a variety of disciplines, ranging from finance and economics, to the natural and social sciences. Making use of this information, however, requires both statistical tools and an understanding of how th..."
+  },
+  {
+    "code": "MS&E130",
+    "name": "Information Networks and Services",
+    "description": "Architecture of the Internet and performance engineering of computer systems and networks. Switching, routing and shortest path algorithms. Congestion management and queueing networks.  Peer-to-peer networking. Wireless and mobile networking. Informa..."
+  },
+  {
+    "code": "MS&E134",
+    "name": "Solving Social Problems with Data",
+    "description": "Introduces students to the interdisciplinary intersection of data science and the social sciences through an in-depth examination of contemporary social problems. Provides a foundational skill set for solving social problems with data including quant..."
+  },
+  {
+    "code": "MS&E135",
+    "name": "Networks",
+    "description": "This course provides an introduction to how networks underly our social, technological, and natural worlds, with an emphasis on developing intuitions for broadly applicable concepts in network analysis. The course will include: an introduction to gra..."
+  },
+  {
+    "code": "MS&E140",
+    "name": "Accounting for Managers and Entrepreneurs",
+    "description": "Non-majors and minors who have taken or are taking elementary accounting should not enroll. Introduction to accounting concepts and the operating characteristics of accounting systems. The principles of financial and cost accounting, design of accoun..."
+  },
+  {
+    "code": "MS&E141",
+    "name": "Economic Analysis",
+    "description": "Principal methods of economic analysis of the production activities of firms, including production technologies, cost and profit, and perfect and imperfect competition; individual choice, including preferences and demand; and the market-based system,..."
+  },
+  {
+    "code": "MS&E145",
+    "name": "Introduction to Finance and Investment",
+    "description": "Introduction to modern quantitative finance and investments. The course focuses on the basic principles underlying financial decision making which are applicable to all forms of investment: stocks, bonds, real estate, corporate finance, etc., and how..."
+  },
+  {
+    "code": "MS&E146",
+    "name": "Corporate Financial Management",
+    "description": "Key functions of finance in both large and small companies, and the core concepts and tools that provide their foundation.  Identifying promising business opportunities.  The role of finance in business planning, and in quantifying and managing uncer..."
+  },
+  {
+    "code": "MS&E148",
+    "name": "Ethics of Finance",
+    "description": "Explores the ethical reasoning needed to make banking, insurance and financial services safer, fairer and more positively impactful. Weighs tradeoffs in how money is created, privileging some, under-privileging others, using market mechanisms for tra..."
+  },
+  {
+    "code": "MS&E149",
+    "name": "Hedge Fund Management",
+    "description": "Introduction to hedge fund management. Students actively manage the $1MM Stanford Kudla Fund employing Equity Long/Short, Macro and Quantitative Investment Strategies. Modeled after a hedge fund partnership culture, participation involves significant..."
+  },
+  {
+    "code": "MS&E152",
+    "name": "Introduction to Decision Analysis",
+    "description": "How to make good decisions in a complex, dynamic, and uncertain world. People often make decisions that on close examination they regard as wrong. Decision analysis uses a structured conversation based on actional thought to obtain clarity of action..."
+  },
+  {
+    "code": "MS&E165",
+    "name": "Introduction to Product Management",
+    "description": "Product Managers define a product's functional requirements and lead cross functional teams responsible for development, launch, and ongoing improvement. Uses a learning-by-doing approach covering the following topics: changing role of a PM at differ..."
+  },
+  {
+    "code": "MS&E175",
+    "name": "Innovation, Creativity, and Change",
+    "description": "Problem solving in organizations; creativity and innovation skills; thinking tools; creative organizations, teams, individuals, and communities. Limited enrollment."
+  },
+  {
+    "code": "MS&E176",
+    "name": "Social Entrepreneurship",
+    "description": "In-depth exploration of social entrepreneurship, focusing on leveraging business skills and strategies to creatively address societal challenges. Explore the social entrepreneurship process, including key business models, funding strategies, and the..."
+  },
+  {
+    "code": "MS&E178",
+    "name": "Entrepreneurship: Principles & Perspectives",
+    "description": "This course uses the speakers from the Entrepreneurial Thought Leader seminar (MS&E472) to seed discussions around core topics in entrepreneurship. Students are exposed to a variety of guest speakers and lecturers. Topics change each quarter based on..."
+  },
+  {
+    "code": "MS&E179",
+    "name": "Entrepreneurship for Everyone",
+    "description": "Entrepreneurs play a pivotal role in the U.S. economy, creating businesses, generating employment, and meeting consumer needs. Particularly in high-growth sectors like technology, entrepreneurs can significantly impact social, political, and economic..."
+  },
+  {
+    "code": "MS&E180",
+    "name": "Organizations: Theory and Management",
+    "description": "For undergraduates only. Classical and contemporary organization theory; the behavior of individuals, groups, and organizations. Limited enrollment; preference to declared MS&E majors and seniors from other departments."
+  },
+  {
+    "code": "MS&E184",
+    "name": "The Future of Work: What Will it Mean to Build AI-Augmented Organizations?",
+    "description": "For over 100 years our economic activity was mostly accomplished in bureaucratic organizations. Many theories of management and work design were developed for those settings. Today, economic activities are being reconfigured using new technologies su..."
+  },
+  {
+    "code": "MS&E185",
+    "name": "Global Work",
+    "description": "Issues, challenges, and opportunities facing workers, teams, and organizations working across national boundaries. Topics include geographic distance, time zones, language and cultural differences, technologies to support distant collaboration, team..."
+  },
+  {
+    "code": "MS&E188",
+    "name": "Organizing for Good",
+    "description": "Grand challenges of our time will demand entirely new ways of thinking about when, how, and under what conditions organizations are \"doing good\" and what effects that has. Focus is on the role of organizations in society, the ways that organizations..."
+  },
+  {
+    "code": "MS&E193",
+    "name": "Technology and National Security",
+    "description": "Explores the relation between technology, war, and national security policy with reference to current events.  Course focuses on current U.S. national security challenges and the role that technology plays in shaping our understanding and response to..."
+  },
+  {
+    "code": "MS&E20",
+    "name": "Discrete Probability Concepts And Models",
+    "description": "Fundamental concepts and tools for the analysis of problems under uncertainty, focusing on structuring, model building, and analysis. Examples from legal, social, medical, and physical problems. Topics include axioms of probability, probability trees..."
+  },
+  {
+    "code": "MS&E206",
+    "name": "Incentives in Computer Science",
+    "description": "Many 21st-century computer science applications require the design of software or systems that interact with multiple self-interested participants.  This course will provide students with the vocabulary and modeling tools to reason about such design..."
+  },
+  {
+    "code": "MS&E208A",
+    "name": "Practical Training",
+    "description": "MS&E students obtain employment in a relevant industrial or research activity to enhance professional experience, consistent with the degree program they are pursuing. Students submit a statement showing relevance to degree program along with offer l..."
+  },
+  {
+    "code": "MS&E208B",
+    "name": "Practical Training",
+    "description": "MS&E students obtain employment in a relevant industrial or research activity to enhance professional experience, consistent with the degree program they are pursuing. Students submit a statement showing relevance to degree program along with offer l..."
+  },
+  {
+    "code": "MS&E208C",
+    "name": "Practical Training",
+    "description": "MS&E students obtain employment in a relevant industrial or research activity to enhance professional experience, consistent with the degree program they are pursuing. Students submit a statement showing relevance to degree program along with offer l..."
+  },
+  {
+    "code": "MS&E208D",
+    "name": "Practical Training",
+    "description": "MS&E students obtain employment in a relevant industrial or research activity to enhance professional experience, consistent with the degree program they are pursuing. Students submit a statement showing relevance to degree program along with offer l..."
+  },
+  {
+    "code": "MS&E208E",
+    "name": "Part-Time Practical Training",
+    "description": "MS&E students obtain employment in a relevant industrial or research activity to enhance professional experience, consistent with the degree program they are pursuing. Students submit a statement showing relevance to degree program along with offer l..."
+  },
+  {
+    "code": "MS&E211",
+    "name": "Introduction to Optimization",
+    "description": "Formulation and computational analysis of linear, quadratic, and other convex optimization problems.  Applications in machine learning, operations, marketing, finance, and economics. Prerequisite: CME 100 or MATH 51."
+  },
+  {
+    "code": "MS&E211DS",
+    "name": "Introduction to Optimization: Data Science",
+    "description": "Formulation and computational analysis of linear, discrete, and other optimization problems. Strong emphasis on data science and machine learning applications, as well as applications in matching and pricing in online markets. Prerequisite: CME 100 o..."
+  },
+  {
+    "code": "MS&E211X",
+    "name": "Introduction to Optimization (Accelerated)",
+    "description": "Introduction to optimization theory, modeling, structure, and methods with focus on the mathematical foundations. Accelerated introduction to linear programming, nonlinear optimization, and optimization algorithm design. Prerequisite: CME 100 or MATH..."
+  },
+  {
+    "code": "MS&E212",
+    "name": "Graph and Combinatorial Optimization",
+    "description": "Optimization problems dealing with graph structure. Topics: introduction to graph theory; combinatorial optimization problems on networks including network flows, matching, and assignment problems; NP-completeness and approximation algorithms; applic..."
+  },
+  {
+    "code": "MS&E213",
+    "name": "Introduction to Optimization Theory",
+    "description": "Introduction of core algorithmic techniques and proof strategies that underlie the best known provable guarantees for minimizing high dimensional convex functions. Focus on broad canonical optimization problems and survey results for efficiently solv..."
+  },
+  {
+    "code": "MS&E214",
+    "name": "Applied Optimization",
+    "description": "This class will illustrate applications of optimization principles such as linear and non-linear programming, decision making under uncertainty, and dynamic programming in several important real-world scenarios, including Machine Learning, Market Des..."
+  },
+  {
+    "code": "MS&E215",
+    "name": "Beyond Worst-Case Analysis",
+    "description": "This course is motivated by problems for which the traditional worst-case analysis of algorithms fails to differentiate meaningfully between different solutions, or recommends an intuitively \"wrong\" solution over the \"right\" one. This course studies..."
+  },
+  {
+    "code": "MS&E218",
+    "name": "Applied Data Science",
+    "description": "This is a multidisciplinary graduate level course designed to give students hands-on experience working in teams through real-world project-based research and experiential classroom activities. Students work in dynamic teams with the support of cours..."
+  },
+  {
+    "code": "MS&E220",
+    "name": "Probabilistic Analysis",
+    "description": "Concepts and tools for the analysis of problems under uncertainty, focusing on structuring, model building, and analysis. Examples from legal, social, medical, and physical problems. Topics include axioms of probability, probability trees, random var..."
+  },
+  {
+    "code": "MS&E221",
+    "name": "Stochastic Modeling",
+    "description": "Focus is on time-dependent random phenomena. Topics: discrete time Markov chains, Markov jump processes, queueing theory, and applications. Emphasis on model-building, computation, and related calibration and statistical issues. Prerequisite: 220 or..."
+  },
+  {
+    "code": "MS&E223",
+    "name": "Simulation",
+    "description": "Discrete-event systems, generation of uniform and non-uniform random numbers, Monte Carlo methods, programming techniques for simulation, statistical analysis of simulation output, efficiency-improvement techniques, decision making using simulation,..."
+  },
+  {
+    "code": "MS&E226",
+    "name": "Fundamentals of Data Science: Prediction, Inference, Causality",
+    "description": "This course is about understanding \"small data\": these are datasets that allow interaction, visualization, exploration, and analysis on a local machine. The material provides an introduction to applied data analysis, with an emphasis on providing a c..."
+  },
+  {
+    "code": "MS&E228",
+    "name": "Applied Causal Inference with Machine Learning and AI",
+    "description": "Fundamentals of modern applied causal inference. Basic principles of causal inference and machine learning and how the two can be combined in practice to deliver causal insights and policy implications in real world datasets, allowing for high-dimens..."
+  },
+  {
+    "code": "MS&E229",
+    "name": "Bayesian Linear Regression",
+    "description": "Using data (and judgment if desired), Bayesian Linear Regression generates joint and marginal probability distributions over quantities of interest and applies those probability distributions to prediction. To ensure proper application and interpreta..."
+  },
+  {
+    "code": "MS&E230",
+    "name": "Market Design for Engineers",
+    "description": "Markets are everywhere around us but don't always achieve desired goals. Market failures occur due to a variety of frictions and need design to be fixed. The design of marketplace varies depending on the type of goods and possible transactions. This..."
+  },
+  {
+    "code": "MS&E231",
+    "name": "Social Algorithms",
+    "description": "Learning algorithms play increasingly central roles within modern complex social systems. In this course, we examine the design and behavior of algorithms in such contexts, including search algorithms, content recommendation systems, social recommend..."
+  },
+  {
+    "code": "MS&E232",
+    "name": "Introduction to Game Theory",
+    "description": "Examines foundations of strategic environments with a focus on game theoretic analysis. Provides a solid background to game theory as well as topics in behavioral game theory and the design of marketplaces. Introduction to analytic tools to model and..."
+  },
+  {
+    "code": "MS&E232H",
+    "name": "Introduction to Game Theory (Accelerated)",
+    "description": "Game theory uses mathematical models to study strategic interactions and situations of conflict and cooperation between rational decision-makers. This course provides an accelerated introduction to tools, models and computation in non-cooperative and..."
+  },
+  {
+    "code": "MS&E233",
+    "name": "Game Theory, Data Science and AI",
+    "description": "The course will explore applied topics at the intersection of game theory, data science and artificial intelligence. The first part of the course will focus on computational approaches to solving complex games, with applications in developing success..."
+  },
+  {
+    "code": "MS&E234",
+    "name": "Data Privacy and Ethics",
+    "description": "This course engages with ethical challenges in the modern practice of data science.  The three main focuses are data privacy, personalization and targeting algorithms, and online experimentation. The focus on privacy raises both practical and theoret..."
+  },
+  {
+    "code": "MS&E236",
+    "name": "Machine Learning for Discrete Optimization",
+    "description": "Machine learning has become a powerful tool for discrete optimization. This is because, in practice, we often have ample data about the application domain?data that can be used to optimize algorithmic performance, ranging from runtime to solution qua..."
+  },
+  {
+    "code": "MS&E237A",
+    "name": "Bandit Learning: Behaviors and Applications",
+    "description": "The subject of reinforcement learning addresses the design of agents that improve decisions over time while operating within complex and uncertain environments.  This first course of the sequence restricts attention to the special case of bandit lear..."
+  },
+  {
+    "code": "MS&E237B",
+    "name": "Reinforcement Learning: Behaviors and Applications",
+    "description": "This course treats reinforcement learning, which addresses the design of agents to operate in environments where actions induce delayed consequences. Concepts generalize those arising in bandit learning, which is covered in EE277/MS&E 237A. The cours..."
+  },
+  {
+    "code": "MS&E238",
+    "name": "Computational and Algorithmic Aspects of Fairness",
+    "description": "Fairness means different things to different people, and in different contexts. This class discusses how fairness has been applied in settings where an algorithm is computing or mediating an outcome. Settings involve resource allocation by a centrali..."
+  },
+  {
+    "code": "MS&E239",
+    "name": "Market Design in Action",
+    "description": "This project-based experiential course is designed for advanced undergraduate and masters students familiar either with market design basics or machine learning methods who are interested in studying and potentially building a platform in a specific..."
+  },
+  {
+    "code": "MS&E240",
+    "name": "Accounting for Managers and Entrepreneurs",
+    "description": "Non-majors and minors who have taken or are taking elementary accounting should not enroll. Introduction to accounting concepts and the operating characteristics of accounting systems. The principles of financial and cost accounting, design of accoun..."
+  },
+  {
+    "code": "MS&E241",
+    "name": "Economic Analysis",
+    "description": "Principal methods of economic analysis of the production activities of firms, including production technologies, cost and profit, and perfect and imperfect competition; individual choice, including preferences and demand; and the market-based system,..."
+  },
+  {
+    "code": "MS&E243",
+    "name": "Energy and Environmental Policy Analysis",
+    "description": "Concepts, methods, and applications. Energy/environmental policy issues such as  automobile fuel economy regulation, global climate change, research and development policy, and environmental benefit assessment. Group project. Prerequisite: MS&E 241 o..."
+  },
+  {
+    "code": "MS&E244",
+    "name": "Statistical Arbitrage",
+    "description": "Practical introduction to statistical arbitrage, which typically refers to trading strategies that are bottom up, market neutral, with trading driven by statistical or econometric models. Models may focus on tendency of short term returns to revert,..."
+  },
+  {
+    "code": "MS&E245A",
+    "name": "Investment Science",
+    "description": "Basic concepts of modern quantitative finance and investments. Focus is on the financial theory and empirical evidence that are useful for investment decisions. Topics: basic interest rates; evaluating investments: present value and internal rate of..."
+  },
+  {
+    "code": "MS&E245B",
+    "name": "Advanced Investment Science",
+    "description": "Formerly MS&E 342. Topics: forwards and futures contracts, continuous and discrete time models of stock price behavior, geometric Brownian motion, Ito's lemma, basic options theory, Black-Scholes equation, advanced options techniques, models and appl..."
+  },
+  {
+    "code": "MS&E246",
+    "name": "Financial Risk Analytics",
+    "description": "Practical introduction to financial risk analytics. The focus is on data-driven modeling, computation, and statistical estimation of credit and market risks. Case studies based on real data will be emphasized throughout the course. Topics include mor..."
+  },
+  {
+    "code": "MS&E248",
+    "name": "Blockchain and Crypto Currencies",
+    "description": "Blockchain is one of the most significant technologies to impact law and business in many years. Blockchain is also one of the most interdisciplinary areas, bringing together new questions, and opportunities at the intersection of technology, busines..."
+  },
+  {
+    "code": "MS&E249",
+    "name": "Corporate Financial Management",
+    "description": "Key functions of finance in both large and small companies, and the core concepts and tools that provide their foundation.  Identifying promising business opportunities.  The role of finance in business planning, and in quantifying and managing uncer..."
+  },
+  {
+    "code": "MS&E250A",
+    "name": "Engineering Risk Analysis",
+    "description": "Techniques of analysis of risk management decisions in engineering and other systems involving preferences and trade-offs (technical, human, environmental aspects). Elements of decision analysis; probabilistic risk analysis in the public or private s..."
+  },
+  {
+    "code": "MS&E250B",
+    "name": "Project Course in Engineering Risk Analysis",
+    "description": "Students, individually or in groups, choose, define, formulate, and resolve a real risk management problem, preferably from a local firm or institution. Oral presentation and report required. Scope of the project is adapted to the number of students..."
+  },
+  {
+    "code": "MS&E252",
+    "name": "Foundations of Decision Analysis",
+    "description": "Coherent approach to decision making, using the metaphor of developing a structured conversation having desirable properties, and producing actional thought that leads to clarity of action. Emphasis is on creation of distinctions, representation of u..."
+  },
+  {
+    "code": "MS&E254",
+    "name": "The Ethical Analyst",
+    "description": "We raise awareness of ethically sensitive situations and provide principles and tools for forming coherent ethical judgments regarding individual, government, or organizational actions.  Students learn ethical theories and tools from which they creat..."
+  },
+  {
+    "code": "MS&E254A",
+    "name": "The Ethical Analyst",
+    "description": "We raise awareness of ethically sensitive situations and provide principles and tools for forming coherent ethical judgments regarding individual, government, or organizational actions.  Students learn ethical theories and tools from which they creat..."
+  },
+  {
+    "code": "MS&E256",
+    "name": "Technology Assessment and Regulation of Medical Devices",
+    "description": "Regulatory approval and reimbursement for new health technologies are critical success factors for product commercialization. This course explores the regulatory and payer environment in the U.S. and abroad, as well as common methods of health techno..."
+  },
+  {
+    "code": "MS&E256A",
+    "name": "Technology Assessment and Regulation of Medical Devices",
+    "description": "Regulatory approval and reimbursement for new medical technologies as a key component of product commercialization. The regulatory and payer environment in the U.S. and abroad, and common methods of health technology assessment. Framework to identify..."
+  },
+  {
+    "code": "MS&E260",
+    "name": "Introduction to Operations Management",
+    "description": "Operations management focuses on the effective planning, scheduling, and control of manufacturing and service entities. This course introduces students to a broad range of key issues in operations management. Topics include determination of optimal f..."
+  },
+  {
+    "code": "MS&E262",
+    "name": "Topics in Service and Supply Chain Management",
+    "description": "This course will focus on topics in management of supply chains and services. The course will first discuss individual trade-offs and decisions faced by business such warehousing, transportation, revenue, and network design with emphasis on how to ac..."
+  },
+  {
+    "code": "MS&E263",
+    "name": "Healthcare Operations Management",
+    "description": "US health care spending is approximately 18% of GDP, growing rapidly, and driven in large part by prices and waste rather than quality and access. New approaches for improving health care delivery are urgently needed. This class focuses on the use of..."
+  },
+  {
+    "code": "MS&E264",
+    "name": "Healthcare Engineering",
+    "description": "The healthcare industry, accounting for over 17% of the US GDP, stands at the forefront of rapid growth and innovation, offering vast opportunities and challenges for engineers. This course is specifically designed for graduate students and advanced..."
+  },
+  {
+    "code": "MS&E265",
+    "name": "Product Management Fundamentals for the Real Economy",
+    "description": "This course teaches students how to apply product management skills to create products and services for the \"real economy.\" Students will learn the basics of product management and the product lifecycle and design a product in a team setting. They wi..."
+  },
+  {
+    "code": "MS&E267",
+    "name": "Service Operations and the Design of Marketplaces",
+    "description": "The service sector accounts for approximately 80% of GDP and employment in the US. It is therefore imperative to develop efficient and effective operations of services. The management of service operations can require quite different constraints and..."
+  },
+  {
+    "code": "MS&E270",
+    "name": "Strategy in Technology-Based Companies",
+    "description": "Introduction to the basic concepts of strategy, with emphasis on high technology firms. Topics: competitive positioning, resource-based perspectives, co-opetition and standards setting, and complexity/evolutionary perspectives. Limited enrollment. Fo..."
+  },
+  {
+    "code": "MS&E271",
+    "name": "Global Entrepreneurial Marketing",
+    "description": "Introduces core marketing concepts to bring a new product or service to market and build for its success.  Geared to both entrepreneurs and intrapreneurs alike who have a passion for innovation. Course themes include: Identifying markets and opportun..."
+  },
+  {
+    "code": "MS&E272",
+    "name": "Entrepreneurship without Borders",
+    "description": "How and why does access to entrepreneurial opportunities vary by geographic borders, racial/gender borders, or other barriers created by where or who you are? What kinds of inequalities are created by limited access to capital or education and what r..."
+  },
+  {
+    "code": "MS&E273",
+    "name": "Venture Creation for the Real Economy",
+    "description": "CEE 246 is a unique course geared toward developing entrepreneurial businesses (both start-ups and internal ventures). This team, project-based class teaches students how to exploit emerging materials science, engineering and IT technologies to radic..."
+  },
+  {
+    "code": "MS&E275",
+    "name": "Secret Foundations of Scalable Startups",
+    "description": "Explore the foundational, strategic, and experiential knowledge that entrepreneurs wish they had before building their company. Topics can be broken down into two core themes - how to build a scalable startup and how to be the founder of such a compa..."
+  },
+  {
+    "code": "MS&E276",
+    "name": "Entrepreneurial Management and Finance",
+    "description": "For graduate students only. Emphasis on managing high-growth, early-stage ventures, especially those with technology-intensive products and services. Students work in teams to develop skills and approaches necessary to becoming effective entrepreneur..."
+  },
+  {
+    "code": "MS&E277A",
+    "name": "Entrepreneurial Leadership",
+    "description": "This Winter and Spring course sequence is part of the STVP Accel Leadership Program and explores how to lead entrepreneurial ventures including establishing startup strategy, forming organizational culture and effective team structures, securing reso..."
+  },
+  {
+    "code": "MS&E277B",
+    "name": "Entrepreneurial Leadership",
+    "description": "This Winter and Spring course sequence is part of the STVP Accel Leadership Program and explores how to lead entrepreneurial ventures including establishing startup strategy, forming organizational culture and effective team structures, securing reso..."
+  },
+  {
+    "code": "MS&E278",
+    "name": "Patent Law and Strategy for Innovators and Entrepreneurs",
+    "description": "This course teaches the essentials for a startup founder to build a valuable patent portfolio and avoid a patent infringement lawsuit. Jeffrey Schox and Diana Lin are partners at Schox Patent Group, which is the law firm that wrote the patents for Co..."
+  },
+  {
+    "code": "MS&E280",
+    "name": "Organizational Behavior: Evidence in Action",
+    "description": "Organization theory; concepts and functions of management; behavior of the individual, work group, and organization. Emphasis is on cases and related discussion. Limited enrollment."
+  },
+  {
+    "code": "MS&E284",
+    "name": "Managing Data Science Organizations for Innovation and Impact",
+    "description": "Most organizations are drawn to data science by the tantalizing prospects of competitive advantage and disruptive capabilities.  Yet many organizations are finding that their data science teams are not providing the expected business impact, and some..."
+  },
+  {
+    "code": "MS&E288",
+    "name": "Managing Innovation and Driving Adoption of Frontier Technologies",
+    "description": "Focuses on understanding the challenges innovators and adopters of technologies face at various stages of technology maturity, the tools and strategic choices organizations have at their disposal, exemplified across a range of technologies including..."
+  },
+  {
+    "code": "MS&E289",
+    "name": "Ethics in Global Technology Design",
+    "description": "Building a successful business requires more than a great idea; every new for-profit venture must address significant policy, ethical, and legal considerations as it builds products for global markets. Using interactive presentations, analysis of cur..."
+  },
+  {
+    "code": "MS&E292",
+    "name": "Health Policy Modeling",
+    "description": "Primarily for master's students; also open to undergraduates and doctoral students. The application of mathematical, statistical, economic, and systems models to problems in health policy. Areas include: disease screening, prevention, and treatment;..."
+  },
+  {
+    "code": "MS&E296",
+    "name": "Technology, Innovation and Great Power Competition",
+    "description": "This course explores how new technologies pose challenges and create opportunities for the United States to compete more effectively with rivals in the international system with a focus on strategic competition with the People's Republic of China. In..."
+  },
+  {
+    "code": "MS&E297",
+    "name": "\"Hacking for Defense\": Solving National Security issues with the Lean Launchpad",
+    "description": "In a crisis, national security initiatives move at the speed of a startup yet in peacetime they default to decades-long acquisition and procurement cycles. Startups operate with continual speed and urgency 24/7. Over the last few years they've learne..."
+  },
+  {
+    "code": "MS&E299",
+    "name": "Entrepreneurship Inside Government",
+    "description": "Explores the unique challenges and opportunities of entrepreneurship within government organizations. For example, the Department of Defense currently has more than 100 \"innovation organizations\" that are plagued by challenges with structures, govern..."
+  },
+  {
+    "code": "MS&E301",
+    "name": "Dissertation Research",
+    "description": "Prerequisite: doctoral candidacy."
+  },
+  {
+    "code": "MS&E302",
+    "name": "Fundamental Concepts in Management Science and Engineering",
+    "description": "Each course session will be devoted to a specific MS&E PhD research area. Advanced students will make presentations designed for first-year doctoral students regardless of area. The presentations will be devoted to: illuminating how people in the are..."
+  },
+  {
+    "code": "MS&E310",
+    "name": "Linear Programming",
+    "description": "Formulation of standard linear programming models. Theory of polyhedral convex sets, linear inequalities, alternative theorems, and duality. Variants of the simplex method and the state of art interior-point algorithms. Sensitivity analyses, economic..."
+  },
+  {
+    "code": "MS&E311",
+    "name": "Optimization",
+    "description": "Optimization entails seeking decisions that maximize objectives while satisfying constraints, with applications across engineering, business, economics, statistics, data analysis, and everyday life. This course provides an in-depth and rigorous intro..."
+  },
+  {
+    "code": "MS&E312",
+    "name": "Optimization Algorithms",
+    "description": "Fundamental theory for solving continuous optimization problems with provable efficiency guarantees. Coverage of both canonical optimization methods and techniques, e.g. gradient descent, mirror descent, stochastic methods, acceleration, higher-order..."
+  },
+  {
+    "code": "MS&E314",
+    "name": "Optimization in Data Science and Machine Learning",
+    "description": "Optimization in Data Science and Machine Learning"
+  },
+  {
+    "code": "MS&E315",
+    "name": "Combinatorial Optimization",
+    "description": "Algorithms, algorithmic paradigms, and algorithmic tools for provably solving combinatorial optimization problems. Emphasis on graph optimization and discussion of approaches based on linear programming and continuous optimization. Potential optimiza..."
+  },
+  {
+    "code": "MS&E316",
+    "name": "Discrete Mathematics and Algorithms",
+    "description": "Introduction to theoretical foundations of discrete mathematics and algorithms. Emphasis on providing mathematical tools for combinatorial optimization, i.e. how to efficiently optimize over large finite sets and reason about the complexity of such p..."
+  },
+  {
+    "code": "MS&E319",
+    "name": "Matching Theory",
+    "description": "The theory of matching with its roots in the work of mathematical giants like Euler and Kirchhoff has played a central and catalytic role in combinatorial optimization for decades. More recently, the growth of online marketplaces for allocating adver..."
+  },
+  {
+    "code": "MS&E321",
+    "name": "Stochastic Systems",
+    "description": "Topics in stochastic processes, emphasizing applications. Markov chains in discrete and continuous time; Markov processes in general state space; Lyapunov functions; regenerative process theory; renewal theory; martingales, Brownian motion, and diffu..."
+  },
+  {
+    "code": "MS&E322",
+    "name": "Stochastic Calculus and Control",
+    "description": "Ito integral, existence and uniqueness of solutions of stochastic differential equations (SDEs), diffusion approximations, numerical solutions of SDEs, controlled diffusions and the Hamilton-Jacobi-Bellman equation, and statistical inference of SDEs...."
+  },
+  {
+    "code": "MS&E323",
+    "name": "Stochastic Simulation",
+    "description": "Emphasis is on the theoretical foundations of simulation methodology. Generation of uniform and non-uniform random variables. Discrete-event simulation and generalized semi-Markov processes. Output analysis (autoregressive, regenerative, spectral, an..."
+  },
+  {
+    "code": "MS&E324",
+    "name": "Stochastic Methods in Engineering",
+    "description": "The basic limit theorems of probability theory and their application to maximum likelihood estimation. Basic Monte Carlo methods and importance sampling.  Markov chains and processes, random walks, basic ergodic theory and its application to paramete..."
+  },
+  {
+    "code": "MS&E325",
+    "name": "Optimal Transport in Operations Research, Statistics, and Economics",
+    "description": "Current stochastic models, motivated by a wide range of applications in engineering, business, and science, as well as the design and analysis of associated computational methods for performance analysis and control of such stochastic systems."
+  },
+  {
+    "code": "MS&E328",
+    "name": "Foundations of Causal Machine Learning",
+    "description": "Theoretical foundations of modern techniques at the intersection of causal inference and machine learning. Topics may include: semi-parametric inference and semi-parametric efficiency, modern statistical learning theory, Neyman orthogonality and doub..."
+  },
+  {
+    "code": "MS&E332",
+    "name": "Security and Risk in Computer Networks",
+    "description": "Risk management of large scale computing and networking systems with respect to security, data integrity, performance collapse, and service disruption. Qualitative and analytical basis for assessment, modeling, control, and mitigation of network risk..."
+  },
+  {
+    "code": "MS&E334",
+    "name": "Topics in Social Data",
+    "description": "This Ph.D. course will study advanced topics in causal inference, with a focus on nuances of experimental design and policy evaluation, particularly in settings with interference. We will emphasize discussion of a range of experimental designs, as we..."
+  },
+  {
+    "code": "MS&E335",
+    "name": "Queueing and Scheduling in Processing Networks",
+    "description": "Advanced stochastic modeling and control of systems involving queueing and scheduling operations. Stability analysis of queueing systems. Key results on single queues and queueing networks. Controlled queueing systems. Dynamic routing and scheduling..."
+  },
+  {
+    "code": "MS&E336",
+    "name": "Computational Social Choice",
+    "description": "An in-depth treatment of algorithmic and game-theoretic issues in social choice. Topics include common voting rules and impossibility results; ordinal vs cardinal voting; market approaches to large scale decision making; voting in complex elections,..."
+  },
+  {
+    "code": "MS&E337",
+    "name": "Large Networks and Graph Limits",
+    "description": "Random graph theory, Erdos-Renyi, and other network models, the algebra of graph homomorphisms, limits for dense and sparse graphs, and applications in algorithm design, graph representation learning, and others."
+  },
+  {
+    "code": "MS&E338",
+    "name": "Aligning Superintelligence",
+    "description": "Within a couple of decades, or less, it is plausible that humans will create an AI that is much smarter than humans in practically all domains of human activity.  We refer to such an AI as a superintelligence. The alignment problem is how to make sur..."
+  },
+  {
+    "code": "MS&E339",
+    "name": "Algorithms for Decentralized Finance",
+    "description": "The advent of cryptocurrencies, NFTs, and more generally, online financial instruments that are not controlled by large governments or banks, has resulted in many new and innovative mechanisms for decentralized finance. This class studies these new m..."
+  },
+  {
+    "code": "MS&E346",
+    "name": "Foundations of Reinforcement Learning with Applications in Finance",
+    "description": "This course is taught in 3 modules - (1) Markov Processes and Planning Algorithms, including Approximate Dynamic Programming (3 weeks), (2) Financial Trading problems cast as Stochastic Control, from the fields of Portfolio Management, Derivatives Pr..."
+  },
+  {
+    "code": "MS&E348",
+    "name": "Optimization of Uncertainty and Applications in Finance",
+    "description": "How to make optimal decisions in the presence of uncertainty, solution techniques for large-scale systems resulting from decision problems under uncertainty, and applications in finance. Decision trees, utility, two-stage and multi-stage decision pro..."
+  },
+  {
+    "code": "MS&E349",
+    "name": "Financial Statistics",
+    "description": "Topics in financial statistics with focus on current research: Time-series modeling, volatility modeling, high-frequency statistics, large-dimensional factor modeling and estimation of continuous-time processes. Prerequisites: 220, 226 or STATS 200,..."
+  },
+  {
+    "code": "MS&E355",
+    "name": "Influence Diagrams and Probabilistics Networks",
+    "description": "Network representations for reasoning under uncertainty: influence diagrams, belief networks, and Markov networks. Structuring and assessment of decision problems under uncertainty. Learning from evidence. Conditional independence and requisite infor..."
+  },
+  {
+    "code": "MS&E365",
+    "name": "Topics in Market Design",
+    "description": "Market design is a field that links the rules of the of the marketplace to understand frictions, externalities and more generally economic outcomes. The course provides theoretical foundations on assignment and matching mechanisms as well as mechanis..."
+  },
+  {
+    "code": "MS&E366",
+    "name": "Market Design and Resource Allocation in Non-Profit Settings",
+    "description": "Survey of recent research on market design and resource allocation with a focus on under-explored domains in non-profit settings. Will start with classic results in allocation, matching and social choice, and discuss them in the context of relevant o..."
+  },
+  {
+    "code": "MS&E370",
+    "name": "Current Topics in Strategy, Innovation and Entrepreneurship",
+    "description": "This course will cover focused exploration of contemporary readings and classics as relevant in strategy, innovation and entrepreneurship such as platforms, ecosystems, institutional logics, and strategic \"games\" in nascent markets. The course will i..."
+  },
+  {
+    "code": "MS&E371",
+    "name": "Innovation and Strategic Change",
+    "description": "Doctoral research seminar, limited to Ph.D. students. Current research on innovation strategy. Topics: scientific discovery, innovation search, organizational learning, evolutionary approaches, and incremental and radical change. Topics change yearly..."
+  },
+  {
+    "code": "MS&E372",
+    "name": "Entrepreneurship Doctoral Research Seminar",
+    "description": "Classic and current research on entrepreneurship. In this class, we will focus on questions of how entrepreneurship may exacerbate or alleviate inequalities in society across race/ethnicity, gender and class. How do institutional environments shape w..."
+  },
+  {
+    "code": "MS&E376",
+    "name": "Strategy Doctoral Research Seminar",
+    "description": "Classic and current research on business and corporate strategy. Limited enrollment, restricted to PhD students. Course may be repeated for credit."
+  },
+  {
+    "code": "MS&E379",
+    "name": "Social Data Analysis",
+    "description": "Applied introduction to good empirical research and causal inference for social scientists and others analyzing social data. Designed to provide an introduction to some of the most commonly used quantitative techniques for causal inference in social..."
+  },
+  {
+    "code": "MS&E380",
+    "name": "Navigating an Academic Career: Topics for PhD Students",
+    "description": "Dedicated conversations about the unspoken aspects of academic career development. Through interactive discussions and practical insights from experienced professors, we explore topics such as building a scholarly reputation, the nuances of academic..."
+  },
+  {
+    "code": "MS&E382",
+    "name": "Meso-Organizational Theory",
+    "description": "Doctoral research seminar, limited to Ph.D. students. Provides an overview of research on meso-level organizational theory. Topics include classic and contemporary research on work and occupations, sociology of professions and expertise, meso-level t..."
+  },
+  {
+    "code": "MS&E383",
+    "name": "Interviewing",
+    "description": "This course immerses students in the practical aspects of scientific research, focusing on in-depth interviewing as a primary data collection method. Emphasizing a 'learning-by-doing' approach, students will design, conduct, and analyze their own in-..."
+  },
+  {
+    "code": "MS&E384",
+    "name": "Groups and Teams",
+    "description": "Research on groups and teams in organizations from the perspective of organizational behavior and social psychology. Topics include group effectiveness, norms, group composition, diversity, conflict, group dynamics, temporal issues in groups, geograp..."
+  },
+  {
+    "code": "MS&E385",
+    "name": "Doctoral Seminar in Race and Ethnicity",
+    "description": "What is the difference between race and ethnicity? In what ways can we theorize the difference (if it exists)? How does modern racism work? And how does immigration change a nation's racial landscape? This graduate course surveys classic and contempo..."
+  },
+  {
+    "code": "MS&E386",
+    "name": "Doctoral Research Seminar on Technology & Organizations",
+    "description": "Doctoral Research Seminar on Technology & Organizations"
+  },
+  {
+    "code": "MS&E388",
+    "name": "Contemporary Themes in Work and Organization Studies",
+    "description": "Doctoral research seminar, limited to Ph.D. students. Current meso-level field research on organizational behavior, especially work and coordination. Topics: work design, job design, roles, teams, organizational change and learning, knowledge managem..."
+  },
+  {
+    "code": "MS&E389",
+    "name": "Seminar on Organizational Theory",
+    "description": "The social science literature on organizations assessed through consideration of the major theoretical traditions and lines of research predominant in the field. For PhD students only."
+  },
+  {
+    "code": "MS&E390",
+    "name": "Doctoral Research Seminar in Health Systems Modeling",
+    "description": "Restricted to PhD students, or by consent of instructor. Doctoral research seminar covering current topics in health policy, health systems modeling, and health innovation. May be repeated for credit."
+  },
+  {
+    "code": "MS&E391",
+    "name": "Doctoral Research Seminar in Energy-Environmental Systems Modeling and Analysis",
+    "description": "Restricted to PhD students, or by consent of instructor. Doctoral research seminar covering current topics in energy and environmental modeling and analysis.  Current emphasis on approaches to incorporation of uncertainty and technology dynamics into..."
+  },
+  {
+    "code": "MS&E394",
+    "name": "Advanced Methods in Modeling for Climate and Energy Policy",
+    "description": "Design and application of computational models and techniques for assessing climate and energy policy, and for predicting the impacts of climate change. Topics include 1) best practices in research design, model design and selection; 2) types of mode..."
+  },
+  {
+    "code": "MS&E408",
+    "name": "Directed Reading and Research",
+    "description": "Directed reading and research on a subject of mutual interest to student and faculty member. Available to undergraduate, master, and doctoral students. Student must clarify deliverables, units, and grading basis with faculty member before applicable..."
+  },
+  {
+    "code": "MS&E447",
+    "name": "Blockchain Technologies & Entrepreneurship",
+    "description": "This course offers a concise, in-depth exploration of entrepreneurship in decentralized computing, focusing on the rapid advance of decentralized blockchain technology since Bitcoin's release in 2009. We'll examine relevant technological advancements..."
+  },
+  {
+    "code": "MS&E449",
+    "name": "Buy-Side Investing",
+    "description": "In-class lectures and guest speakers who work in the Buy-Side to explore the synergies amongst the various players\u00bf roles, risk appetites, and investment time and return horizons. We aim to see the forest and the different species of trees growing in..."
+  },
+  {
+    "code": "MS&E454",
+    "name": "Decision Analysis Seminar",
+    "description": "Current research and related topics presented by doctoral students and invited speakers. May be repeated for credit. Prerequisite: 252."
+  },
+  {
+    "code": "MS&E463",
+    "name": "Healthcare Systems Design",
+    "description": "Students work on projects to analyze and design various aspects of healthcare delivery including hospital patient flow, clinical risk prediction, physician networks, clinical outcomes, reimbursement incentives, and community health. Students work in..."
+  },
+  {
+    "code": "MS&E472",
+    "name": "Entrepreneurial Thought Leaders' Seminar",
+    "description": "Learn about entrepreneurship, innovation, culture, startups and strategy from a diverse lineup of accomplished leaders and entrepreneurs in venture capital, technology, education, philanthropy and more. Open to all Stanford students. Required weekly..."
+  },
+  {
+    "code": "MS&E478",
+    "name": "Ases Breakthrough",
+    "description": "Eight-week long program designed to help audacious builders and aspiring VCs from across educational backgrounds (undergraduates, masters, PhD) break into the entrepreneurial world. We help students identify, evaluate, and capitalize on venture oppor..."
+  },
+  {
+    "code": "MS&E489",
+    "name": "Leadership Lab",
+    "description": "The Leadership Lab (previously known as d.Leadership) is a one-of-a-kind hands-on leadership course. This course bridges leadership research and principles with real-world application, offering a unique opportunity to grasp not only the theory but al..."
+  },
+  {
+    "code": "MS&E494",
+    "name": "The Stanford Energy Seminar",
+    "description": "Interdisciplinary exploration of current energy challenges and opportunities in the context of development, equity and sustainability objectives. Talks are presented by faculty, visitors, and students and include relevant technology, policy, and syst..."
+  },
+  {
+    "code": "MS&E495",
+    "name": "Sustainable Energy Interdisciplinary Graduate Seminar",
+    "description": "Graduate students will present their ongoing research to an audience of faculty and graduate students with a diversity of disciplinary perspectives regarding sustainable energy."
+  },
+  {
+    "code": "MS&E70N",
+    "name": "How Ventures Work",
+    "description": "Focus on learning about new organizations, especially ventures (firms that seek high growth and substantial impact). Major companies like Nvidia, Google, and Moderna got their start as ventures. Ventures are not small businesses like local restaurant..."
+  },
+  {
+    "code": "MS&E75",
+    "name": "Redefining Creativity: Designing Human Connections in an AI World",
+    "description": "With the recent developments in generative AI, the value in human creativity is increasingly a focus. Course draws from lessons from creativity in the arts to teach engineering students methods for creativity derived from musicians and artists. For o..."
+  },
+  {
+    "code": "MS&E79SI",
+    "name": "Values and Principles in the Workplace: Xfund Ethics Fellows",
+    "description": "Extension of the Xfund Ethics Fellows program. Serves as an opportunity for students to explore what it means to create and work for principled, entrepreneurial businesses. Through readings and peer-led discussions, students define their personal set..."
+  },
+  {
+    "code": "MS&E802",
+    "name": "TGR Dissertation",
+    "description": "For doctoral students in Terminal Graduate Residency (TGR) status only."
+  },
+  {
+    "code": "MS&E92Q",
+    "name": "International Environmental Policy",
+    "description": "Preference to sophomores. Science, economics, and politics of international environmental policy. Current negotiations on global climate change, including actors and potential solutions. Sources include briefing materials used in international negoti..."
+  }
+]

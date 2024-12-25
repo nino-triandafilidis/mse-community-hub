@@ -1,3 +1,12 @@
+let courseData = [];
+
+// Load course data
+fetch('data/courses.json')
+    .then(response => response.json())
+    .then(data => {
+        courseData = data;
+    });
+
 function handleSubmit(event) {
     event.preventDefault();
     
@@ -18,14 +27,11 @@ function handleSubmit(event) {
 }
 
 function generateMockRecommendations(interests) {
-    const courses = [
-        'MS&E 234: Data-Driven Decision Making',
-        'MS&E 226: Operations Management',
-        'MS&E 251: Stochastic Decision Models',
-        'MS&E 245A: Investment Science'
-    ];
+    // Use courseData instead of hardcoded courses
+    const matchedCourses = courseData.filter(course => 
+        course.description.toLowerCase().includes(interests.toLowerCase())
+    ).slice(0, 2);  // Get top 2 matches
     
     return `Based on your interest in ${interests}, you might enjoy:<br>
-            • ${courses[Math.floor(Math.random() * 2)]}<br>
-            • ${courses[Math.floor(Math.random() * 2) + 2]}`;
+            ${matchedCourses.map(course => `• ${course.code}: ${course.name}`).join('<br>')}`;
 } 
