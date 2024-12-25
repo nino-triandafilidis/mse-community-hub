@@ -19,7 +19,25 @@
 
   <section id="about-project">
     <h2>About the Project</h2>
-    <p>The Course Assistant helps MS&E students select courses based on interests and career goals while providing hands-on machine learning experience.</p>
+    <p>The Course Assistant helps MS&E students select courses based on interests and career goals while providing hands-on machine learning experience. It is currently in beta testing.</p>
+    <div class="demo-form">
+      <h3>Try the Beta Version</h3>
+      <form id="courseForm" onsubmit="handleSubmit(event)">
+        <div class="form-group">
+          <label for="interests">What are your main interests? (e.g., AI, Operations, Finance)</label>
+          <input type="text" id="interests" name="interests" required>
+        </div>
+        <button type="submit" class="submit-btn">Get Recommendations</button>
+      </form>
+      <div id="loading" style="display: none;">
+        <p>Processing your request... 🤖</p>
+        <div class="loading-spinner"></div>
+      </div>
+      <div id="results" style="display: none;">
+        <h4>Preliminary Recommendations</h4>
+        <p id="recommendation-text"></p>
+      </div>
+    </div>
   </section>
 
   <section id="features">
@@ -34,5 +52,7 @@
   <footer>
     <p>&copy; 2024 Unofficial MS&E Networking Hub</p>
   </footer>
+  
+  <script src="script.js"></script>
 </body>
 </html>
